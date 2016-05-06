@@ -1,0 +1,6 @@
+tmp/
+log/
+.bundle/
+*.DS_Store
+.idea/
+db/*.sqlite3
